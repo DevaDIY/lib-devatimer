@@ -1,0 +1,10 @@
+DevaTimer	KEYWORD1
+setInterval	KEYWORD2
+setTimeout	KEYWORD2
+update	KEYWORD2
+changeInterval	KEYWORD2
+remove	KEYWORD2
+pause	KEYWORD2
+resume	KEYWORD2
+isActive	KEYWORD2
+isPaused	KEYWORD2
